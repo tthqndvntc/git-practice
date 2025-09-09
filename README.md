@@ -1,2 +1,1 @@
-# Git Practice
-Giới thiệu: Tôi là Nguyễn Trọng Hiếu, MSSV 225356.
+Đây là README từ nhánh main.
